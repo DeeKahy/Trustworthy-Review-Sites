@@ -9,6 +9,7 @@ rtings.com,
 bettertrail.com
 consumerreports.org
 ```
+https://github.com/github/codeql/blob/main/README.md
 
 List of questionable sites
 ```
