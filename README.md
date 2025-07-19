@@ -23,6 +23,6 @@ TBD
 
 
 
-Create a kagi lens by going to your settings->lenses Create a new lense and paste the contents like so (it should just be a straight copypaste).
+Create a kagi lens for the trustworthy sites so ONLY search those, by going to your settings->lenses Create a new lense and paste the contents like so (it should just be a straight copypaste).
 <img width="1240" height="769" alt="image" src="https://github.com/user-attachments/assets/437c7c72-a732-41bb-a527-2e3ad734e966" />
 
