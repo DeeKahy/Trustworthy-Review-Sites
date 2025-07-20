@@ -22,6 +22,7 @@ List of sites to avoid
 ```
 techradar.com
 cnet.com
+soundguys.com
 ```
 
 
