@@ -14,6 +14,7 @@ consumerreports.org
 List of questionable sites
 ```
 Reddit.com
+soundguys.com
 ```
 
 
@@ -22,7 +23,6 @@ List of sites to avoid
 ```
 techradar.com
 cnet.com
-soundguys.com
 ```
 
 
