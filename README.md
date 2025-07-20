@@ -20,7 +20,7 @@ Reddit.com
 
 List of trash sites
 ```
-TBD
+techradar.com
 ```
 
 
