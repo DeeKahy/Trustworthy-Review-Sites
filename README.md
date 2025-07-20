@@ -6,7 +6,7 @@ List of trustworthy sites
 lttlabs.com,
 housefresh.com,
 rtings.com,
-bettertrail.com
+bettertrail.com,
 consumerreports.org
 ```
 
