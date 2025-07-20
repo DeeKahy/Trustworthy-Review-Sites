@@ -18,9 +18,10 @@ Reddit.com
 
 
 
-List of trash sites
+List of sites to avoid
 ```
 techradar.com
+cnet.com
 ```
 
 
