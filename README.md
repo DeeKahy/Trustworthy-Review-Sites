@@ -13,17 +13,20 @@ consumerreports.org
 
 List of questionable sites
 ```
-Reddit.com
+Reddit.com,
 soundguys.com
 ```
 
 
 
-List of sites to avoid
+List of trash sites
 ```
 techradar.com
 cnet.com
+tomsguide.com
+techadvisor.com
 ```
+Maintaining the trash site list is going to be impossible with all the new garbage sites popping up.
 
 
 
